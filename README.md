@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<a href="https://piezasparawebsite.github.io/status/">Bienvenidos !</a>
+<a href="https://piezasparawebsite.github.io/piezasparawebsite/">Bienvenidos !</a>
